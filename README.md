@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kawaitang
-- 👀 I’m interested in Finance, Natural Language Processing.
+- 👀 I’m interested in Finance, Natural Language Processing, and Fairness in AI.
 - 🌱 I’m currently a Data Science student at Tilburg University
-- 💞️ I’m looking to collaborate on Natural Language Processing and various Deep Learning topics.
+- 💞️ I’m looking to collaborate on Natural Language Processing, Fairness and various Deep Learning topics.
 - 📫 You could reach me via LinkedIN or by e-mail.
 
 <!---
